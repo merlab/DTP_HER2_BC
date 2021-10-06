@@ -1,5 +1,5 @@
 # DTP_HER2_BC
-Code and data for G0 signature ([Oki et al.](https://doi.org/10.1038/srep04012))  analysis of lapatinib arm of the NeoALTTO trial. The `data` directory contains all necessary data for the analysis, including G0 signature and scaled NeoALTTO gene expression matrix for corresponding genes. The directory `R` has code for computing score and visualizing the data. For running the code R session information is as:
+Code and data for G0 signature ([Oki et al.](https://doi.org/10.1038/srep04012))  analysis of the lapatinib arm of the NeoALTTO trial. The `data` directory contains all necessary data for the analysis, including G0 signature and scaled NeoALTTO gene expression matrix for corresponding genes. The directory `R` has code for computing score and visualizing the data. For running the code R session information is as follows:
 
 ```r
 session_info()
